@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael JaHoon Kim
 
-<!--
-**Rafael-JaHoon-Kim/Rafael-JaHoon-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m less drawn to loud disruptions and more to meaningful transformations.  
+Currently leading the **Talent Shift Lab** (experimental HR strategy unit @ Kakao Entertainment).  
+Ph.D. researcher @ KAIST, focusing on how people, organizations, and AI can evolve together.
 
-Here are some ideas to get you started:
+### 🌱 Current Focus
+- AI × HR Index & Simulation
+- Organizational Transformation Models
+- Futures Studies & Strategic HR Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect
+- 📧 pogandkjh@kaist.ac.kr / rafael.k@kakaoent.com
+- 🌐 LinkedIn: [linkedin.com/in/pogandkjh](https://www.linkedin.com/in/pogandkjh/)
