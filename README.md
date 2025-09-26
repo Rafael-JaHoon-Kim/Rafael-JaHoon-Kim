@@ -10,5 +10,5 @@ Ph.D. researcher @ KAIST, focusing on how people, organizations, and AI can evol
 - Futures Studies & Strategic HR Design
 
 ### 🔗 Connect
-- 📧 pogandkjh@kaist.ac.kr / rafael.k@kakaoent.com
+- 📧 pogandkjh@kaist.ac.kr
 - 🌐 LinkedIn: [linkedin.com/in/pogandkjh](https://www.linkedin.com/in/pogandkjh/)
